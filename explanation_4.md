@@ -1,0 +1,3 @@
+The requirement to create an efficient algorithm that searches into this encapsulated structure.
+
+The time complexity of this algorithm is dependant on the number of iterations that are launched. Being in this case dependent on encapsulation of groups and number of users of folders, resulting in a O(g*u). As for the space complexity, it is directly dependent on the number of returns the function does, hence, in this case O(1).
